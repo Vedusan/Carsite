@@ -9,7 +9,7 @@ function Home() {
         <h1>Chelsea Football club</h1>
         <p>London is blue</p>
         <Link to="/tjanster">
-          <button>Buy a ticket now</button>
+          <button>Buy a ticket now!</button>
         </Link>
       </div>
     </div>
